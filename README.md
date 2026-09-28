@@ -1,0 +1,24 @@
+# difffile
+
+Diff CSV/TSV file tables for quick inspection and cleanup.
+
+**Site:** https://theworker02.github.io/difffile/
+
+## Install / run
+
+```bash
+git clone https://github.com/theworker02/difffile.git
+cd difffile
+node src/cli.js
+node --test
+```
+
+## API
+
+Library entrypoint: [`src/index.js`](./src/index.js)
+
+Category: `csv` · Version `1.0.0`
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
